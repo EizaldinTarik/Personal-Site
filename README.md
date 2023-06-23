@@ -1,2 +1,4 @@
 # Personal-Site
-EizaldinTarik-CV
+Eizaldin Tarik-CV
+
+https://eizaldintarik.github.io/Personal-Site/
